@@ -19,7 +19,7 @@ int main(){
     printf("Do you want to continue?(y/n)\n");
     scanf("%s", &more);
 
-    if(more != 'y' && more != 'n'){
+    while(more != 'y' && more != 'n'){
         printf("please only enter y(yes) or n(no)");
         scanf("%s", &more);
     }
