@@ -4,7 +4,7 @@
 # compile C with /usr/bin/cc
 C_DEFINES = 
 
-C_INCLUDES = -I/home/rtos/ESPL_Code/include
+C_INCLUDES = -I/home/rtos/ESPL_Code/include -I/home/rtos/ESPL_Code/lib
 
 C_FLAGS = -g
 
