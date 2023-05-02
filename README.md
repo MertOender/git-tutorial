@@ -1,8 +1,4 @@
-<<<<<<< HEAD
 
-Mert Onder
-Despription
-=======
 # Merge Conflicts
 
 When merging two branches there are sometimes changes that Git cannot automatically resolve. Git prefers then to flag the conflict as something it cannot resolve instead of intervening and potentially causing even larger errors. Errors that require human intervention usually result from changes to the same file, for example two people modify the same line of a file. Git would then require the person merging the files to decide which one it should keep.
@@ -115,4 +111,4 @@ There are a number of other features in Git that are useful to know. If you are 
 * `git show`
 * `git revert`
 * `git clean`
->>>>>>> conflicts
+
